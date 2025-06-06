@@ -1,0 +1,2 @@
+# fredagsbettet
+Fredagsbettets app 
